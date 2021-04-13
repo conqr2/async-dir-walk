@@ -1,5 +1,5 @@
 {
-    "name" : "dir-walk",
+    "name" : "dirwalk",
     "version" : "0.0.1",
     "description" : "Walks through a directory and all subdirectories (including nested) at the same time and returns a promise resolving to an array of file paths.",
     "main" : "index.js",
