@@ -1,5 +1,5 @@
 # node-async-parallel-dir-walk
-Walks through a directory and all subdirectories (including nested) at the same time and returns a promise resolving to an array of file paths. **With no dependencies**
+Walks through a directory and all subdirectories (including nested) at the same time and returns a promise resolving to an array of file paths. **With no dependencies.**
 
 ## Example
 
@@ -27,7 +27,7 @@ Walks through a directory and all subdirectories (including nested) at the same 
 
 ### `index.js`:
 ```js
-const walk = require("dir-walk");
+const walk = require("dirwalk");
 
 walk("./test")
   .then(results => console.log("`Test` directory contents: %s", results.join(", "))
