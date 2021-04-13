@@ -1,5 +1,5 @@
 # node-async-parallel-dir-walk
-Walks through a directory and all subdirectories (including nested) at the same time and returns a promise resolving to an array of file paths.
+Walks through a directory and all subdirectories (including nested) at the same time and returns a promise resolving to an array of file paths. **With no dependencies**
 
 ## Example
 
