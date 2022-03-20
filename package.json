@@ -1,35 +1,35 @@
 {
-    "name" : "dirwalk",
-    "version" : "0.0.1",
-    "description" : "Walks through a directory and all subdirectories (including nested) at the same time and returns a promise resolving to an array of file paths.",
-    "main" : "index.js",
-    "repository" : {
-        "type" : "git",
-        "url" : "git://github.com/conqr2/node-async-parallel-dir-walk.git"
-    },
-    "homepage" : "https://github.com/conqr2/node-async-parallel-dir-walk",
-    "keywords" : [
-        "node",
-        "walk",
-        "async",
-        "dir-walk",
-        "recursive",
-        "map",
-        "files",
-        "deep",
-        "directory",
-        "dir",
-        "nesting",
-        "fs",
-        "dirwalk",
-        "directory-contents",
-        "dir-files",
-        "folder-files",
-        "folder"
-    ],
-    "author" : {
-        "name" : "Conqr",
-        "url" : "https://conqr.tech"
-    },
-    "license" : "MIT"
+  "name": "async-dir-walk",
+  "version": "1.0.0",
+  "description": "Walks through a directory and all subdirectories (including nested) at the same time and returns a promise resolving to an array of file paths.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/conqr2/node-async-parallel-dir-walk.git"
+  },
+  "homepage": "https://github.com/conqr2/node-async-parallel-dir-walk",
+  "keywords": [
+    "node",
+    "walk",
+    "async",
+    "dir-walk",
+    "recursive",
+    "map",
+    "files",
+    "deep",
+    "directory",
+    "dir",
+    "nesting",
+    "fs",
+    "dirwalk",
+    "directory-contents",
+    "dir-files",
+    "folder-files",
+    "folder"
+  ],
+  "author": {
+    "name": "Conqr",
+    "url": "https://conqr.tech"
+  },
+  "license": "MIT"
 }
